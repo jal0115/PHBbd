@@ -1,0 +1,26 @@
+# Sample flashcards - Java Programming
+# Format: Q: question, A: answer
+
+Q: What keyword is used to define a class in Java?
+A: class
+
+Q: What is the default value of an int in Java?
+A: 0
+
+Q: Which method is the entry point of a Java program?
+A: main
+
+Q: What does OOP stand for?
+A: Object-Oriented Programming
+
+Q: What keyword prevents a variable from being modified?
+A: final
+
+Q: What is the parent class of all Java classes?
+A: Object
+
+Q: What does JVM stand for?
+A: Java Virtual Machine
+
+Q: Which data type stores true or false values?
+A: boolean
