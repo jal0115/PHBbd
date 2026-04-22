@@ -72,6 +72,11 @@
       <plugin>
         <artifactId>maven-javadoc-plugin</artifactId>
         <version>3.5.0</version>
+        <configuration>
+          <failOnError>false</failOnError>
+          <failOnWarnings>false</failOnWarnings>
+          <doclint>none</doclint>
+        </configuration>
       </plugin>
     </plugins>
   </reporting>
